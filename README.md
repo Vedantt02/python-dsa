@@ -1,4 +1,4 @@
-# Python DSA – 100 Problems
+# Python DSA Problems
 
 This repository contains Data Structures and Algorithms problems
 solved using Python.
